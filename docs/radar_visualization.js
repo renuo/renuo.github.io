@@ -8,7 +8,7 @@
     grid: "#bbb",
     inactive: "#ddd"
   },
-  title: "Renuo Tech Radar - 2018.01",
+  // title: "Renuo Tech Radar - 2018.01",
   quadrants: [
     { name: "Languages" },
     { name: "Infrastructure" },
@@ -81,7 +81,7 @@
       },
       {
         quadrant: 1,
-        ring: 1,
+        ring: 0,
         label: 'Heroku'
       },
       {
@@ -95,13 +95,13 @@
         label: 'VueJS'
       },
       {
-        quadrant: 1,
-        ring: 1,
+        quadrant: 3,
+        ring: 0,
         label: 'AWS S3'
       },
       {
-        quadrant: 1,
-        ring: 1,
+        quadrant: 3,
+        ring: 0,
         label: 'PostgreSQL'
       },
       {
